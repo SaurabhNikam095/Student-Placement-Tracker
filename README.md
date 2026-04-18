@@ -140,6 +140,7 @@ npm start
 cd frontend
 npm install
 npm run dev
+```
 
 ## 📊 Workflow
 ### Student Flow
